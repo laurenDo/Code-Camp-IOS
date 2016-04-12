@@ -19,6 +19,7 @@
 		8FB9E0941CBCDF6D007D86ED /* lecorpsetesprit_favicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FB9E0931CBCDF6D007D86ED /* lecorpsetesprit_favicon.png */; };
 		8FB9E0961CBCE285007D86ED /* 2noir.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FB9E0951CBCE285007D86ED /* 2noir.png */; };
 		8FB9E0981CBCE824007D86ED /* TextFieldEffects in Resources */ = {isa = PBXBuildFile; fileRef = 8FB9E0971CBCE824007D86ED /* TextFieldEffects */; };
+		A4E8B89F1CBD880B002C55E2 /* next_red _arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = A4E8B89E1CBD880B002C55E2 /* next_red _arrow.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		8FB9E0931CBCDF6D007D86ED /* lecorpsetesprit_favicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = lecorpsetesprit_favicon.png; path = ../../lecorpsetesprit_favicon.png; sourceTree = "<group>"; };
 		8FB9E0951CBCE285007D86ED /* 2noir.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 2noir.png; path = ../../2noir.png; sourceTree = "<group>"; };
 		8FB9E0971CBCE824007D86ED /* TextFieldEffects */ = {isa = PBXFileReference; lastKnownFileType = folder; name = TextFieldEffects; path = ../../TextFieldEffects; sourceTree = "<group>"; };
+		A4E8B89E1CBD880B002C55E2 /* next_red _arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "next_red _arrow.png"; path = "../../../../../next_red _arrow.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				8FB9E0971CBCE824007D86ED /* TextFieldEffects */,
 				8FB9E0951CBCE285007D86ED /* 2noir.png */,
 				8FB9E0931CBCDF6D007D86ED /* lecorpsetesprit_favicon.png */,
+				A4E8B89E1CBD880B002C55E2 /* next_red _arrow.png */,
 				8F5EE43F1CBBF55100C8C991 /* 1noir.png */,
 				8F5EE4111CBBE71700C8C991 /* AppDelegate.swift */,
 				8F5EE4131CBBE71700C8C991 /* ViewController.swift */,
@@ -246,6 +249,7 @@
 			files = (
 				8FB9E0941CBCDF6D007D86ED /* lecorpsetesprit_favicon.png in Resources */,
 				8F5EE41C1CBBE71700C8C991 /* LaunchScreen.storyboard in Resources */,
+				A4E8B89F1CBD880B002C55E2 /* next_red _arrow.png in Resources */,
 				8FB9E0961CBCE285007D86ED /* 2noir.png in Resources */,
 				8F5EE4401CBBF55100C8C991 /* 1noir.png in Resources */,
 				8F5EE4191CBBE71700C8C991 /* Assets.xcassets in Resources */,
