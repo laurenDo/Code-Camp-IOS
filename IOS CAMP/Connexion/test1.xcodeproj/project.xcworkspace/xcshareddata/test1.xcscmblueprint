@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EC6839F7C124430AF5CA7C6933529DB101E186CC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "50F332439CC0DCC4484E09FA62F0260EA531BF10" : 0,
+    "EC6839F7C124430AF5CA7C6933529DB101E186CC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AE9902E6-92B2-459A-B082-55766E2E1280",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "50F332439CC0DCC4484E09FA62F0260EA531BF10" : "..\/..\/TextFieldsEffects\/TextFieldEffects",
+    "EC6839F7C124430AF5CA7C6933529DB101E186CC" : "CodeCamp-IOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "test1",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "IOS CAMP\/Connexion\/test1.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/raulriera\/TextFieldEffects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "50F332439CC0DCC4484E09FA62F0260EA531BF10"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VeliaKevinMandresy\/CodeCamp-IOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EC6839F7C124430AF5CA7C6933529DB101E186CC"
+    }
+  ]
+}

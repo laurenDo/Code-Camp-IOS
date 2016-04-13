@@ -18,9 +18,19 @@
 		8F5EE4401CBBF55100C8C991 /* 1noir.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F5EE43F1CBBF55100C8C991 /* 1noir.png */; };
 		8FB9E0941CBCDF6D007D86ED /* lecorpsetesprit_favicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FB9E0931CBCDF6D007D86ED /* lecorpsetesprit_favicon.png */; };
 		8FB9E0961CBCE285007D86ED /* 2noir.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FB9E0951CBCE285007D86ED /* 2noir.png */; };
-		8FB9E0981CBCE824007D86ED /* TextFieldEffects in Resources */ = {isa = PBXBuildFile; fileRef = 8FB9E0971CBCE824007D86ED /* TextFieldEffects */; };
 		A4452FF91CBE2CB000FD4E30 /* next_red _arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = A4452FF81CBE2CB000FD4E30 /* next_red _arrow.png */; };
-		A4E8B89F1CBD880B002C55E2 /* next_red _arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = A4E8B89E1CBD880B002C55E2 /* next_red _arrow.png */; };
+		A453780C1CBE8275008A1E96 /* AkiraTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45378001CBE8275008A1E96 /* AkiraTextField.swift */; };
+		A453780D1CBE8275008A1E96 /* HoshiTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45378011CBE8275008A1E96 /* HoshiTextField.swift */; };
+		A453780E1CBE8275008A1E96 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A45378021CBE8275008A1E96 /* Info.plist */; };
+		A453780F1CBE8275008A1E96 /* IsaoTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45378031CBE8275008A1E96 /* IsaoTextField.swift */; };
+		A45378101CBE8275008A1E96 /* JiroTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45378041CBE8275008A1E96 /* JiroTextField.swift */; };
+		A45378111CBE8275008A1E96 /* KaedeTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45378051CBE8275008A1E96 /* KaedeTextField.swift */; };
+		A45378121CBE8275008A1E96 /* MadokaTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45378061CBE8275008A1E96 /* MadokaTextField.swift */; };
+		A45378131CBE8275008A1E96 /* MinoruTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45378071CBE8275008A1E96 /* MinoruTextField.swift */; };
+		A45378141CBE8275008A1E96 /* TextFieldsEffects.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45378091CBE8275008A1E96 /* TextFieldsEffects.swift */; };
+		A45378151CBE8275008A1E96 /* YokoTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A453780A1CBE8275008A1E96 /* YokoTextField.swift */; };
+		A45378161CBE8275008A1E96 /* YoshikoTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A453780B1CBE8275008A1E96 /* YoshikoTextField.swift */; };
+		A4E137121CBE794E00644871 /* TextFieldEffects in Resources */ = {isa = PBXBuildFile; fileRef = A4E137111CBE794E00644871 /* TextFieldEffects */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,9 +68,20 @@
 		8F5EE43F1CBBF55100C8C991 /* 1noir.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1noir.png; path = ../../1noir.png; sourceTree = "<group>"; };
 		8FB9E0931CBCDF6D007D86ED /* lecorpsetesprit_favicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = lecorpsetesprit_favicon.png; path = ../../lecorpsetesprit_favicon.png; sourceTree = "<group>"; };
 		8FB9E0951CBCE285007D86ED /* 2noir.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 2noir.png; path = ../../2noir.png; sourceTree = "<group>"; };
-		8FB9E0971CBCE824007D86ED /* TextFieldEffects */ = {isa = PBXFileReference; lastKnownFileType = folder; name = TextFieldEffects; path = ../../TextFieldEffects; sourceTree = "<group>"; };
-		A4452FF81CBE2CB000FD4E30 /* next_red _arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "next_red _arrow.png"; path = "../next_red _arrow.png"; sourceTree = "<group>"; };
-		A4E8B89E1CBD880B002C55E2 /* next_red _arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "next_red _arrow.png"; path = "../../../../../next_red _arrow.png"; sourceTree = "<group>"; };
+		A4452FF81CBE2CB000FD4E30 /* next_red _arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "next_red _arrow.png"; path = "../../next_red _arrow.png"; sourceTree = "<group>"; };
+		A45378001CBE8275008A1E96 /* AkiraTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AkiraTextField.swift; sourceTree = "<group>"; };
+		A45378011CBE8275008A1E96 /* HoshiTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HoshiTextField.swift; sourceTree = "<group>"; };
+		A45378021CBE8275008A1E96 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A45378031CBE8275008A1E96 /* IsaoTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IsaoTextField.swift; sourceTree = "<group>"; };
+		A45378041CBE8275008A1E96 /* JiroTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JiroTextField.swift; sourceTree = "<group>"; };
+		A45378051CBE8275008A1E96 /* KaedeTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KaedeTextField.swift; sourceTree = "<group>"; };
+		A45378061CBE8275008A1E96 /* MadokaTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MadokaTextField.swift; sourceTree = "<group>"; };
+		A45378071CBE8275008A1E96 /* MinoruTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MinoruTextField.swift; sourceTree = "<group>"; };
+		A45378081CBE8275008A1E96 /* TextFieldEffects.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextFieldEffects.h; sourceTree = "<group>"; };
+		A45378091CBE8275008A1E96 /* TextFieldsEffects.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldsEffects.swift; sourceTree = "<group>"; };
+		A453780A1CBE8275008A1E96 /* YokoTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YokoTextField.swift; sourceTree = "<group>"; };
+		A453780B1CBE8275008A1E96 /* YoshikoTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YoshikoTextField.swift; sourceTree = "<group>"; };
+		A4E137111CBE794E00644871 /* TextFieldEffects */ = {isa = PBXFileReference; lastKnownFileType = folder; name = TextFieldEffects; path = ../../../../../../TextFieldsEffects/TextFieldEffects/TextFieldEffects; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,11 +112,11 @@
 		8F5EE4051CBBE71700C8C991 = {
 			isa = PBXGroup;
 			children = (
-				A4452FF81CBE2CB000FD4E30 /* next_red _arrow.png */,
 				8F5EE4101CBBE71700C8C991 /* test1 */,
 				8F5EE4251CBBE71700C8C991 /* test1Tests */,
 				8F5EE4301CBBE71700C8C991 /* test1UITests */,
 				8F5EE40F1CBBE71700C8C991 /* Products */,
+				A45378171CBE82DC008A1E96 /* TextFieldEffects */,
 			);
 			sourceTree = "<group>";
 		};
@@ -112,11 +133,11 @@
 		8F5EE4101CBBE71700C8C991 /* test1 */ = {
 			isa = PBXGroup;
 			children = (
+				A4E137111CBE794E00644871 /* TextFieldEffects */,
 				8F379EFF1CBD24EA00B74C40 /* img.png */,
-				8FB9E0971CBCE824007D86ED /* TextFieldEffects */,
 				8FB9E0951CBCE285007D86ED /* 2noir.png */,
 				8FB9E0931CBCDF6D007D86ED /* lecorpsetesprit_favicon.png */,
-				A4E8B89E1CBD880B002C55E2 /* next_red _arrow.png */,
+				A4452FF81CBE2CB000FD4E30 /* next_red _arrow.png */,
 				8F5EE43F1CBBF55100C8C991 /* 1noir.png */,
 				8F5EE4111CBBE71700C8C991 /* AppDelegate.swift */,
 				8F5EE4131CBBE71700C8C991 /* ViewController.swift */,
@@ -144,6 +165,25 @@
 				8F5EE4331CBBE71700C8C991 /* Info.plist */,
 			);
 			path = test1UITests;
+			sourceTree = "<group>";
+		};
+		A45378171CBE82DC008A1E96 /* TextFieldEffects */ = {
+			isa = PBXGroup;
+			children = (
+				A45378001CBE8275008A1E96 /* AkiraTextField.swift */,
+				A45378011CBE8275008A1E96 /* HoshiTextField.swift */,
+				A45378021CBE8275008A1E96 /* Info.plist */,
+				A45378031CBE8275008A1E96 /* IsaoTextField.swift */,
+				A45378041CBE8275008A1E96 /* JiroTextField.swift */,
+				A45378051CBE8275008A1E96 /* KaedeTextField.swift */,
+				A45378061CBE8275008A1E96 /* MadokaTextField.swift */,
+				A45378071CBE8275008A1E96 /* MinoruTextField.swift */,
+				A45378081CBE8275008A1E96 /* TextFieldEffects.h */,
+				A45378091CBE8275008A1E96 /* TextFieldsEffects.swift */,
+				A453780A1CBE8275008A1E96 /* YokoTextField.swift */,
+				A453780B1CBE8275008A1E96 /* YoshikoTextField.swift */,
+			);
+			name = TextFieldEffects;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -252,14 +292,14 @@
 			files = (
 				8FB9E0941CBCDF6D007D86ED /* lecorpsetesprit_favicon.png in Resources */,
 				8F5EE41C1CBBE71700C8C991 /* LaunchScreen.storyboard in Resources */,
-				A4E8B89F1CBD880B002C55E2 /* next_red _arrow.png in Resources */,
 				8FB9E0961CBCE285007D86ED /* 2noir.png in Resources */,
 				8F5EE4401CBBF55100C8C991 /* 1noir.png in Resources */,
 				A4452FF91CBE2CB000FD4E30 /* next_red _arrow.png in Resources */,
 				8F5EE4191CBBE71700C8C991 /* Assets.xcassets in Resources */,
 				8F5EE4171CBBE71700C8C991 /* Main.storyboard in Resources */,
-				8FB9E0981CBCE824007D86ED /* TextFieldEffects in Resources */,
+				A453780E1CBE8275008A1E96 /* Info.plist in Resources */,
 				8F379F001CBD24EA00B74C40 /* img.png in Resources */,
+				A4E137121CBE794E00644871 /* TextFieldEffects in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,8 +324,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A453780C1CBE8275008A1E96 /* AkiraTextField.swift in Sources */,
 				8F5EE4141CBBE71700C8C991 /* ViewController.swift in Sources */,
+				A45378131CBE8275008A1E96 /* MinoruTextField.swift in Sources */,
+				A45378111CBE8275008A1E96 /* KaedeTextField.swift in Sources */,
+				A45378161CBE8275008A1E96 /* YoshikoTextField.swift in Sources */,
+				A45378141CBE8275008A1E96 /* TextFieldsEffects.swift in Sources */,
 				8F5EE4121CBBE71700C8C991 /* AppDelegate.swift in Sources */,
+				A45378151CBE8275008A1E96 /* YokoTextField.swift in Sources */,
+				A453780D1CBE8275008A1E96 /* HoshiTextField.swift in Sources */,
+				A453780F1CBE8275008A1E96 /* IsaoTextField.swift in Sources */,
+				A45378121CBE8275008A1E96 /* MadokaTextField.swift in Sources */,
+				A45378101CBE8275008A1E96 /* JiroTextField.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -430,6 +480,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/test1/Carthage/Build/iOS",
+				);
 				INFOPLIST_FILE = test1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Lavan.test1;
@@ -443,6 +497,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/test1/Carthage/Build/iOS",
+				);
 				INFOPLIST_FILE = test1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Lavan.test1;
