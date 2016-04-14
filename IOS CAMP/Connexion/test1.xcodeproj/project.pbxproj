@@ -8,8 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		8F379F001CBD24EA00B74C40 /* img.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F379EFF1CBD24EA00B74C40 /* img.png */; };
-		8F5EE4121CBBE71700C8C991 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5EE4111CBBE71700C8C991 /* AppDelegate.swift */; };
-		8F5EE4141CBBE71700C8C991 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5EE4131CBBE71700C8C991 /* ViewController.swift */; };
 		8F5EE4171CBBE71700C8C991 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F5EE4151CBBE71700C8C991 /* Main.storyboard */; };
 		8F5EE4191CBBE71700C8C991 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F5EE4181CBBE71700C8C991 /* Assets.xcassets */; };
 		8F5EE41C1CBBE71700C8C991 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F5EE41A1CBBE71700C8C991 /* LaunchScreen.storyboard */; };
@@ -19,17 +17,7 @@
 		8FB9E0941CBCDF6D007D86ED /* lecorpsetesprit_favicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FB9E0931CBCDF6D007D86ED /* lecorpsetesprit_favicon.png */; };
 		8FB9E0961CBCE285007D86ED /* 2noir.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FB9E0951CBCE285007D86ED /* 2noir.png */; };
 		A4452FF91CBE2CB000FD4E30 /* next_red _arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = A4452FF81CBE2CB000FD4E30 /* next_red _arrow.png */; };
-		A453780C1CBE8275008A1E96 /* AkiraTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45378001CBE8275008A1E96 /* AkiraTextField.swift */; };
-		A453780D1CBE8275008A1E96 /* HoshiTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45378011CBE8275008A1E96 /* HoshiTextField.swift */; };
 		A453780E1CBE8275008A1E96 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A45378021CBE8275008A1E96 /* Info.plist */; };
-		A453780F1CBE8275008A1E96 /* IsaoTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45378031CBE8275008A1E96 /* IsaoTextField.swift */; };
-		A45378101CBE8275008A1E96 /* JiroTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45378041CBE8275008A1E96 /* JiroTextField.swift */; };
-		A45378111CBE8275008A1E96 /* KaedeTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45378051CBE8275008A1E96 /* KaedeTextField.swift */; };
-		A45378121CBE8275008A1E96 /* MadokaTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45378061CBE8275008A1E96 /* MadokaTextField.swift */; };
-		A45378131CBE8275008A1E96 /* MinoruTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45378071CBE8275008A1E96 /* MinoruTextField.swift */; };
-		A45378141CBE8275008A1E96 /* TextFieldsEffects.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45378091CBE8275008A1E96 /* TextFieldsEffects.swift */; };
-		A45378151CBE8275008A1E96 /* YokoTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A453780A1CBE8275008A1E96 /* YokoTextField.swift */; };
-		A45378161CBE8275008A1E96 /* YoshikoTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A453780B1CBE8275008A1E96 /* YoshikoTextField.swift */; };
 		A4E137121CBE794E00644871 /* TextFieldEffects in Resources */ = {isa = PBXBuildFile; fileRef = A4E137111CBE794E00644871 /* TextFieldEffects */; };
 /* End PBXBuildFile section */
 
@@ -193,7 +181,6 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8F5EE4361CBBE71700C8C991 /* Build configuration list for PBXNativeTarget "test1" */;
 			buildPhases = (
-				8F5EE40A1CBBE71700C8C991 /* Sources */,
 				8F5EE40B1CBBE71700C8C991 /* Frameworks */,
 				8F5EE40C1CBBE71700C8C991 /* Resources */,
 			);
@@ -320,25 +307,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		8F5EE40A1CBBE71700C8C991 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				A453780C1CBE8275008A1E96 /* AkiraTextField.swift in Sources */,
-				8F5EE4141CBBE71700C8C991 /* ViewController.swift in Sources */,
-				A45378131CBE8275008A1E96 /* MinoruTextField.swift in Sources */,
-				A45378111CBE8275008A1E96 /* KaedeTextField.swift in Sources */,
-				A45378161CBE8275008A1E96 /* YoshikoTextField.swift in Sources */,
-				A45378141CBE8275008A1E96 /* TextFieldsEffects.swift in Sources */,
-				8F5EE4121CBBE71700C8C991 /* AppDelegate.swift in Sources */,
-				A45378151CBE8275008A1E96 /* YokoTextField.swift in Sources */,
-				A453780D1CBE8275008A1E96 /* HoshiTextField.swift in Sources */,
-				A453780F1CBE8275008A1E96 /* IsaoTextField.swift in Sources */,
-				A45378121CBE8275008A1E96 /* MadokaTextField.swift in Sources */,
-				A45378101CBE8275008A1E96 /* JiroTextField.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		8F5EE41E1CBBE71700C8C991 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -505,6 +473,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Lavan.test1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = NONE;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
