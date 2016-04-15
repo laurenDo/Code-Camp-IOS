@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>iOSCamp.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8F2E5D6F1CBE9B5500F8C0A7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8F2E5D831CBE9B5600F8C0A7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8F2E5D8E1CBE9B5600F8C0A7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
