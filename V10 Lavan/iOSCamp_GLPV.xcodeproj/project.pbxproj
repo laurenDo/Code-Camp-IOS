@@ -66,6 +66,7 @@
 		A45378141CBE8275008A1E96 /* TextFieldsEffects.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45378091CBE8275008A1E96 /* TextFieldsEffects.swift */; };
 		A45378151CBE8275008A1E96 /* YokoTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A453780A1CBE8275008A1E96 /* YokoTextField.swift */; };
 		A45378161CBE8275008A1E96 /* YoshikoTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = A453780B1CBE8275008A1E96 /* YoshikoTextField.swift */; };
+		A4A0039B1CC7F919002202BA /* Calendar in Resources */ = {isa = PBXBuildFile; fileRef = A4A0039A1CC7F919002202BA /* Calendar */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -152,6 +153,7 @@
 		A45378091CBE8275008A1E96 /* TextFieldsEffects.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldsEffects.swift; sourceTree = "<group>"; };
 		A453780A1CBE8275008A1E96 /* YokoTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YokoTextField.swift; sourceTree = "<group>"; };
 		A453780B1CBE8275008A1E96 /* YoshikoTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YoshikoTextField.swift; sourceTree = "<group>"; };
+		A4A0039A1CC7F919002202BA /* Calendar */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Calendar; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -182,6 +184,7 @@
 		8F5EE4051CBBE71700C8C991 = {
 			isa = PBXGroup;
 			children = (
+				A4A0039A1CC7F919002202BA /* Calendar */,
 				8F5EE4101CBBE71700C8C991 /* test1 */,
 				8F5EE4251CBBE71700C8C991 /* test1Tests */,
 				8F5EE4301CBBE71700C8C991 /* test1UITests */,
@@ -411,6 +414,7 @@
 				8F9921A71CC6A48500D65773 /* Icon-Small@2x.png in Resources */,
 				8F9921A21CC6A48500D65773 /* Icon-60@3x.png in Resources */,
 				8F9921A01CC6A48500D65773 /* Icon-40@3x.png in Resources */,
+				A4A0039B1CC7F919002202BA /* Calendar in Resources */,
 				8F99216F1CC6938D00D65773 /* Logo2_Blanc.png in Resources */,
 				8F9921901CC6A42C00D65773 /* Icon@2x.png in Resources */,
 				8F9921911CC6A42C00D65773 /* iTunesArtwork.png in Resources */,
